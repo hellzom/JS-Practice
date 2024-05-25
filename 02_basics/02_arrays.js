@@ -32,3 +32,5 @@ let sc2 = 1300
 let sc3 = 1400
 
 console.log(Array.of(sc1,sc2,sc3));
+
+console.log("Hey")
